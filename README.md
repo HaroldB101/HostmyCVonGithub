@@ -1,2 +1,2 @@
 # HostonGithub
-hosting on github
+hosting my CV on github
